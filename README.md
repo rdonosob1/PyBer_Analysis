@@ -9,9 +9,7 @@ An additional and interesting factor that was also taken into consideration duri
 
 After the whole analysis was executed, we found a total of 2,375 rides divided in 125 rural, 625 suburban and 1,625 urban rides. Likewise, the total number of drivers was 78, 490 and 2,405 in the same order. In addition to that, we were able to identify the total amount of fares per type of city as well as the average fare per ride, and the average fare per driver too, as shown below.  
 
-![Summary_df](https://github.com/rdonosob1/PyBer_Analysis/commit/1d5954e880bb37d8e57d58d81c05758612951fe9)
-
-Summary_df.png
+![Summary_df](https://github.com/rdonosob1/PyBer_Analysis/blob/main/Summary_df.png)
 
 Given the fact that there is a greater population density in urban cities, the total of drivers is higher in urban areas than suburban and rural cities. Likewise, the total of fares where transactions in urban cities totaled close $40K, whereas transactions in suburban cities and rural cities where around $19.4K and $4.3K respectively. 
 On the other hand, the average fare per ride as well as the average fare per driver has an opposite behavior to be inversely proportional, due to a higher competitivity in bigger cities will result in lower costs.  The following line chart illustrates these findings. 
